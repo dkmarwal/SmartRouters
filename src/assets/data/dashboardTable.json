@@ -1,0 +1,42 @@
+[
+    {
+      "requestid": 1,
+      "producttype": "Frozen yoghurt",
+      "createddate": "12-06-2021",
+      "requesttype": "New",
+      "clientname": "Deepak",
+      "status": "In-Progress",
+      "sla": "3-Days",
+      "assignto": "A"
+    },
+    {
+      "requestid": 2,
+      "producttype": "Frozen yoghurt",
+      "createddate": "12-06-2021",
+      "requesttype": "New",
+      "clientname": "Deepak",
+      "status": "In-Progress",
+      "sla": "3-Days",
+      "assignto": "A"
+    },
+    {
+      "requestid": 3,
+      "producttype": "Frozen yoghurt",
+      "createddate": "12-06-2021",
+      "requesttype": "New",
+      "clientname": "Deepak",
+      "status": "In-Progress",
+      "sla": "3-Days",
+      "assignto": "A"
+    },
+    {
+      "requestid": 4,
+      "producttype": "Frozen yoghurt",
+      "createddate": "12-06-2021",
+      "requesttype": "New",
+      "clientname": "Deepak",
+      "status": "In-Progress",
+      "sla": "3-Days",
+      "assignto": "A"
+    }
+  ]

@@ -1,0 +1,52 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+.listItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+.listItemsecond {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.listItemIcon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 10px;
+   
+}
+.listItemTxt {
+  font-Size: 12px;
+  text-align: center;
+  display: flex;
+  font-weight: 700;
+
+ 
+}
+.drawerPaper, .drawer {
+    width: 100px;
+}
+.listItemTxtcolor {
+    font-Size: 12px;
+    text-align: center;
+    display: flex;
+    font-weight: 700;
+    color:blue
+  
+   
+  }
